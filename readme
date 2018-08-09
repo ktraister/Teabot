@@ -1,0 +1,8 @@
+Teabot is a cool little ruby program to read from a specified FlowDock room for commands and return their output. 
+
+These commands can be shell commands the teabot can run and return the output of, or they can be teabot-specific!
+Multiple teabots can listen to the same channel, and are called with their hostname in this case!
+
+This program is great for build servers that need a ChatOps integration! You can start jobs or check their status all from the comfort of your FlowDock chat room!
+
+More to come soon!
